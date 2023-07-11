@@ -15,7 +15,7 @@ sentence_rayu("Relentless commitment.");
 Extend the program to make _the computer type as follows_.
 
 ```
-Most important quality to be successful ?
+Core quality for success?
 Relentless commitment.
 
 vakkasari
