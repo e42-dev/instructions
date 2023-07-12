@@ -3,10 +3,10 @@ Not Loading instructions
 
 # Use these...
 
-## L#1
+## L#01. Let's do the typing
 [L101: Instructions](L101/)  
 
-## L#2
+## L#02. Let's make the computer do the Typing
 [L201: Instructions](L201/)  
 [L202: Instructions](L202/)  
 [L203: Instructions](L203/)  
@@ -19,13 +19,13 @@ Not Loading instructions
 [L210: Instructions](L210/)  
 [L211: Instructions](L211/)  
 
-## L#3
+## L#03. Let's make the computer do some Arithmetic Calculations
 [L301: Instructions](L301/)  
 [L303: Instructions](L302/)  
 [L303: Instructions](L303/)  
 [L304: Instructions](L304/)  
 
-## L#4
+## L#04. Let's teach the computer some New Commands
 [L401: Instructions](L401/)  
 [L403: Instructions](L402/)  
 [L403: Instructions](L403/)  
