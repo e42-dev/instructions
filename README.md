@@ -18,6 +18,7 @@ Not Loading instructions
 [L209: Instructions](L209/)  
 [L210: Instructions](L210/)  
 [L211: Instructions](L211/)  
+[L212: Instructions](L212/)  
 
 ## L#03. Let's make the computer do some Arithmetic Calculations
 [L301: Instructions](L301/)  
