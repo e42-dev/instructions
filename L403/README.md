@@ -61,13 +61,17 @@ For this you need to create these 2 commands
 _Refer previous project for reference_
 
 ## Complete these new commands
+
+Write the commands between `{` `}` to print the sloka.
 ```C
 // type the sloka
 gaadidhaguddu sloka_rayu() 
 {
 
 }
-
+```
+Write the commands between `{` `}` to print the sloka meaning.
+```C
 // type the sloka meaning
 gaadidhaguddu sloka_meaning_rayu() 
 {
